@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Undux TypeScript Template
+
+- Based on [Microsoft's TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)
+- Checkout the [Undux Documentation](https://undux.org/)
 
 ## Available Scripts
 
